@@ -5,7 +5,7 @@ var hashtags = {
     color : ['coloradvice','inspirationcolor','colouranalysis','colouranalyst','knowyourcolours','knowyourwowcolours','livelifeincolour','stylecolor','colorstylist','dresscolor','lookcolor','warmcolours'],
     special : ['dwynlarson','alltypesofbeauty','typesofbeauty','beautyofalltypes','gamine','classic','flamboyant','natural','romantic','dramatic','gamindramatic','romanticclassic','romanticnatural','naturalromantic','gaminclassic','romanticdramatic','naturalclassic','naturalgamine','dramaticgamine','naturaldramatic','romanticgamine'],
     other : ['bodytype', 'whattowear','onlineshopping','personalstyle','personalityprofile','clothingpersonality','imageconsultant','beautyblogger','onlineshopper','imagemaker','lookbest','howtolookgood','whatwomenwant','ootdinspo','elengantandchic','outfitidea','ilovethislook','outfitlove','yourimage','chicdetails','inspirationpic','personalstylistonline','mylookbook','mylooklike','ootdlovers','inspirationnature','whatwomanwant'],
-    always : ['marinavorozhko']
+    always : ['onlinestylist']
 };
 
 $(document).ready(function(){
