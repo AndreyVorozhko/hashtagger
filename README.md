@@ -1,4 +1,6 @@
 # hashtagger
+![hashtagger](https://github.com/AndreyVorozhko/hashtagger/raw/main/hashtagger-prewiev.jpg "Хештеггер")
+
 Хештеггер, разработанный для стилиста продвигающегося в Инстаграм
 
 ## Преимущества
